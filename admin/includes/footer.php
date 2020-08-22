@@ -1,3 +1,3 @@
 <div class="copyrights">
-	 <p>© 2016 TMS. All Rights Reserved |  <a href="#">TMS</a> </p>
+	 <p>© 2020 TMS. All Rights Reserved |  <a href="#">WisataGK</a> </p>
 </div>	
